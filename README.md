@@ -15,12 +15,8 @@
   <img align="center" alt="VUE" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
   <img align="center" alt="SASS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 <img align="center" alt="DOCKER" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+  </div>
   
-
-
-</div>
-  
-  ##
  <br>
   <a href="https://instagram.com/calebevieira1998" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:calebevieiradamata@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -28,4 +24,3 @@
  
    ![snake gif](https://github.com/calebevieira/calebevieira/blob/output/github-contribution-grid-snake.svg)
  
-</div>
