@@ -1,12 +1,8 @@
 ## Calebe Vieira  🧑‍💻 !!!
 <div align="center">
-<a href="https://github.com/calebevieira/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?calebevieira=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?calebevieira=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
-</div>
+<a href="https://github.com/calebevieira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=calebevieira&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebevieira&layout=compact&langs_count=10&theme=transparent"/>
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
