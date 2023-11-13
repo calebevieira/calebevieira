@@ -1,8 +1,11 @@
 ## Calebe Vieira  🧑‍💻 !!!
 <div align="center">
-  <a href="https://github.com/calebevieira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=calebevieira&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebevieira&layout=compact&langs_count=10&theme=transparent"/>
+<a href="https://github.com/calebevieira/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?calebevieira=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?calebevieira=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,4 +30,4 @@
   <a href = "mailto:calebevieiradamata@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/calebe-vieira-91aa52185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-![snake animation](https://github.com/<calebevieira>/<calebevieira>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/calebevieira/calebevieira/blob/output/github-contribution-grid-snake2.svg)
